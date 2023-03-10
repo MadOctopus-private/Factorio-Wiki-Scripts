@@ -1,0 +1,881 @@
+2 slots = 2 Plätze
+3 slots = 3 Plätze
+Accepted equipment = Erlaubte Ausrüstungsgegenstände
+Acid = Säure
+Allows = Ermöglicht
+Area of effect = Wirkungsbereich
+Area of effect size = Größe Wirkungsbereich
+auto trash = Automatischer Abfall
+Belt speed = Durchsatz
+Big rock = Großer Felsen
+big sandy rock = großer sandiger Felsen
+Big sandy rock = Großer sandiger Felsen
+Boosting technologies = Verbesserungstechnologien
+Capsule = Kapsel
+Charging stations = Ladestationen
+Cluster size = Splitteranzahl
+Construction area = Konstruktionsbereich
+Consumed by = Verbraucht von
+Contact damage = Kontaktschaden
+Cost = Kosten
+craft = herstellen
+crafting = Herstellung
+Crafting speed = Herstelltempo
+Damage = Schaden
+Damage bonus = Schadensbonus
+Dimensions = Maße
+Drain = Leerlauf
+Durability = Haltbarkeit
+each = jedes
+Edit = Bearbeiten
+Effects = Beeinflusst
+Efficiency = Effizienz
+electric = elektrisch
+Energy capacity = Energiekapazität
+Energy consumption = Energieverbrauch
+Energy per hitpoint = Energie pro Trefferpunkt
+Equipment grid size = Ausrüstungsgittergröße
+Evolution = Evolution
+Expected resources = Erwartete Ressourcen
+Expensive mode = Teurer Modus
+explosion = explosiv
+Fire = Feuer
+fire = Feuer
+Fire on the ground = Feuer am Boden
+Fluid consumption = Flüssigkeitsverbrauch
+Fluid storage volume = Fassungsvermögen
+Fuel buffer = Brennstoffspeicher
+fuel only = nur Brennstoff
+Fuel value = Heizwert
+Game modes and options = Spielmodi und Optionen
+Grid size = Gittergröße
+Health = Trefferpunkte
+health = Trefferpunkte
+Heavy = schwere
+Huge rock = Riesiger Felsen
+Ignited objects = Brennende Objekte
+Impact = Aufprall
+Infinite = unbegrenzt
+Internal buffer recharge rate = Aufladungsrate des internen Speichers
+Internal name = Interner Name
+Inventory size bonus = Inventargrößenbonus
+Item = Gegenstand
+Items = Gegenstände
+Items/s = Gegenstände/s
+Lifespan = Lebensdauer
+Limited 120° arc = Begrenzter 120°-Winkel
+Machine = Maschine
+Magazine size = Magazingröße
+Map color = Farbe auf Karte
+Map icon = Kartensymbol
+Max. energy = Maximale Energie
+Maximum recharge speed = Max. Aufladungsrate
+Maximum temperature = Höchsttemperatur
+Mining area = Abbaugebiet
+Mining power = Abbaukraft
+Mining speed = Abbautempo
+Mining time = Abbauzeit
+Module slots = Modulplätze
+None required = keine benötigt
+Normal mode & expensive mode = Normaler & teurer Modus
+Normal mode = Normaler Modus
+Pass-through pipe = Durchgangsrohr
+physical = physisch
+Physical = Physisch
+Piercing Power = Durchschlagskraft
+Placed in = Eingesetzt in
+Pollution = Umweltverschmutzung
+Power input = Energieaufnahme
+Power output = Energieproduktion
+Processed by = Verarbeitet von
+Produced by = Produziert von
+Prototype type = Prototyp-Typ
+Quickbar = Schnellleiste
+Quick panel = Schnellansicht
+Range = Reichweite
+Recipe = Bauplan
+Required technologies = Benötigte Technologien
+Resistance = Widerstand
+Resistances = Widerstand
+Resource = Ressource
+Restores = Stellt wieder her
+Robot limit = Roboterlimit
+Robot recharge rate = Roboter-Aufladungsrate
+Robots = Roboter
+seconds = Sekunden
+See also = Siehe auch
+Shield hitpoints = Schild-Trefferpunkte
+Shooting speed = Feuerrate
+slots = Plätze
+Specific = Speziell
+Speed = Geschwindigkeit
+Spidertron rocket launcher = Spidertron Raketenwerfer
+Stack size = Stapelgröße
+Storage size = Lagerplätze
+Supply area = Versorgungsbereich
+tiles = Kacheln
+Time = Zeit
+Total raw = Gesamtressourcen
+trash = Abfall
+Turrets = Türme
+Units = Einheiten
+Used as ammunition by = Als Munition verwendet von
+Used as fuel by = Als Brennstoff verwendet von
+Valid fuel = Brennstoff
+Vehicle acceleration = Fahrzeug-Beschleunigung
+Vehicle flamethrower = Panzer Flammenwerfer
+Vehicle machine gun = Panzer Maschinengewehr
+Vehicle top speed = Höchstgeschwindigkeit
+Walking speed = Laufgeschwindigkeit
+Weight = Gewicht
+Wire reach = Kabelreichweit
+Accumulators are used to store electric energy. = Akkumulatoren werden zur Speicherung elektrischer Energie verwendet.
+Can be mined. = Kann abgebaut werden.
+Cannot craft with liquids. = Kann nichts mit Flüssigkeiten herstellen.
+Manual crafting = Herstellung von Hand
+Destroys cliffs. = Zerstört Klippen.
+Enables building of train stations, these can be used to setup automated train routes. = Ermöglicht den Bau von Haltestellen, die zur Einrichtung automatisierten Zugverkehrs verwendet werden.
+Used by Lab for research. = Wird vom Labor zum Forschen benötigt.
+Used to build Grass = Erzeuge Grasland
+Used by labs for research. = Von Laboren zur Forschung verwendet.
+Repair packs heal building damage for 300 health. =  Reparaturkits reparieren Gebäudeschaden um 300 Trefferpunkte.
+Fire on the ground lasts 2 seconds. Area of effect size applies to igniting objects and contact damage. Objects are ignited for 30 seconds. = Feuer am Boden brennt 2 Sekunden. Der Wirkungsbereich gilt für entzündbare Objekte und Kontaktschaden. Entzündete Objekte brennen 30 Sekunden lang.
+Overall effect stacks with multiple beacons covering the same machine = Der Gesamteffekt addiert sich mit mehreren Effektverteiler, die die gleiche Maschine abdecken
+Allows firing artillery manually from the map or the world. = Ermöglicht manuellen Einsatz der Artillerie aus der Karte oder der Spielwelt heraus.
+Acts as an obstacle in the world. Can be removed with [[cliff explosives]]. = Stellt ein Hindernis in der Welt dar. Kann mit [[Cliff explosives/de|Klippensprengstoff]] entfernt werden.
+Allows sending simple move commands to the spidertron from the map or the world. Must be first connected to a spidertron by clicking it with the remote. = Erlaubt es einem Spidertron einfache Befehle von der Karte oder der Welt zu erteilen. Dafür muss es erst mit einem Spidertron verbunden werden, indem es mit der Fernbedienung angeklickt wird.
+Combat robots help to fight the enemy with their guns. They are spawned from the capsules and have a limited lifespan. Some follow the player. = Kampfroboter helfen im Kampf gegen den Feind mit ihren Pistolen. Sie werden mit den Kapseln gespawnt und haben eine begrenzte Lebenszeit. Manche folgen dem Spieler.
+Allows the player to order items from storage and provider chests. These items will be delivered by the logistic robots. = Erlaubt dem Spieler Gegenstände aus Lager- oder Anbieterkisten zu fordern. Diese Items werden dann von Logistikrobotern geliefert.
+Character receives 6 more logistic slots = Spieler erhält 6 weitere Logistikplätze
+Using an unfiltered deconstruction planner to queue orders for [[construction robot]]s. = Verwendung eines ungefilterten Abrissplaners, um Aufträge für [[Construction robot/de|Bauroboter]] in die Warteschlange zu stellen.
+Using an unfiltered upgrade planner. = Verwendung eines ungefilterten Upgradeplans.
+Key technology for large scale production. = Schlüsseltechnologie für die Massenproduktion.
+Absorbs pollution. Can be chopped down for [[wood]]. = Absorbiert Umweltverschmutzung. Kann für [[Wood/de|Holz]] abgebaut werden.
+Speed modules push the processing speed of a machine above the normal limit but drastically increase a machine's energy use. = Tempomodule steigern das Arbeitstempo einer Maschine über das normale Maß hinaus, erhöhen aber ihren Energieverbrauch drastisch.
+Opens door to the upgrade modules researches. = Öffnet das Tor zur Erforschung der Module zur Leistungsverbesserung
+
+
+
+
+
+
+
+<--- page names --->
+
+Main Page = Hauptseite
+Keyboard bindings = Tastaturbelegung
+Map editor = Karteneditor
+Map generator = Kartengenerierung
+Map structure = Kartenstruktur
+Achievements = Errungenschaften
+Campaign = Kampagne
+Fuel = Brennstoff
+Ghost = Geist
+Military units and structures = Militärische Einheiten und Strukture
+Coal = Kohle
+Copper ore = Kupfererz
+Crude oil = Rohöl
+Iron ore = Eisenerz
+Raw fish = Roher Fisch
+Stone = Stein
+Water = Wasser
+Oil = Ö
+Petroleum gas = Flüssiggas
+Light oil = Leichtöl
+Heavy oil = Schweröl
+Sulfuric acid = Schwefelsäure
+Lubricant = Schmiermittel
+Solid fuel = Festbrennstof
+Wood = Holz
+Iron plate = Eisenplatte
+Iron gear wheel = Eisenzahnrad
+Iron stick = Eisenstange
+Copper plate = Kupferplatte
+Copper cable = Kupferkabel
+Steel plate = Stahlträger
+Stone brick = Ziegelstein
+Concrete = Beton
+Landfill = Landaufschüttung
+Cliff = Klippen
+Sulfur = Schwefel
+Plastic bar = Kunststoffstange
+Electronic circuit = Elektronischer Schaltkreis
+Advanced circuit = Erweiterter Schaltkreis
+Processing unit = Prozessoreinheit
+Engine unit = Motor-Einheit
+Electric engine unit = Elektromotor-Einheit
+Flying robot frame = Flugrobotergestell
+Science pack = Wissenschaftspaket
+Empty barrel = Leeres Fass
+Explosives = Sprengstoff
+Deconstruction planner = Abrissplaner
+Blueprint = Blaupause
+Blueprint book = Blaupausenbuch
+Blueprint library = Blaupausenbibliothek
+Upgrade planner = Upgradeplan
+Rail planner = Schienenplaner
+Shortcut bar = Aktionsleiste
+Blueprint string format = Blaupausen-Code Format
+Rock = Felse
+Speed module = Tempomodul
+Speed module 1 = Tempomodul
+Speed module 2 = Tempomodul 2
+Speed module 3 = Tempomodul 3
+Efficiency module = Effizienzmodul
+Efficiency module 1 = Effizienzmodul
+Efficiency module 2 = Effizienzmodul 2
+Efficiency module 3 = Effizienzmodul 3
+Productivity module = Produktivitätsmodul
+Productivity module 1 = Produktivitätsmodul
+Productivity module 2 = Produktivitätsmodul 2
+Productivity module 3 = Produktivitätsmodul 
+Chests = Kisten
+Provider chest = Anbieterkiste
+Wooden chest = Holzkiste
+Iron chest = Eisenkiste
+Steel chest = Stahlkiste
+Active provider chest = Aktive Anbieterkiste
+Passive provider chest = Passive Anbieterkiste
+Storage chest = Lagerkiste
+Buffer chest = Pufferkiste
+Requester chest = Anforderungskist
+Tutorial:Applied power math = Tutorial:Angewandte Leistungsmathematik
+Tutorial:Circuit network cookbook = Tutorial:Schaltungsnetz-Kochbuch
+Tutorial:Combinator tutorial = Tutorial:Kombinator Tutorial
+Tutorial:Nuclear power = Tutorial:Kernenergie
+Tutorial:Producing power from oil = Tutorial:Energieerzeugung aus Öl
+Tutorial:Train signals = Tutorial:Eisenbahn-Signale
+Transport belts/Physics = Die Physik der Transportbände
+Burner devices = Befeuerte Gerät
+Lab = Labo
+Furnace = Ofen
+Stone furnace = Schmelzofen
+Steel furnace = Hochofen
+Electric furnace = Lichtbogenofe
+Mining drill = Erzförderer
+Mining = Bergba
+Burner mining drill = Befeuerter Erzförderer
+Electric mining drill = Elektrischer Erzfördere
+Belt transport system = Fließband-Transportsystem
+Inserters = Greifarme
+Burner inserter = Befeuerter Greifarm
+Inserter = Greifarm
+Long-handed inserter = Langer Greifarm
+Fast inserter = Schneller Greifarm
+Filter inserter = Filternder Greifarm
+Stack inserter = Stapelgreifarm
+Stack filter inserter = Filternder Stapelgreifarm
+Stack = Stape
+Balancer mechanics = Balancer Mechaniken
+Transport belt = Fließband
+Transport belts = Fließbänder
+Fast splitter = Schnelles Teilerfließband
+Fast transport belt = Schnelles Fließband
+Fast underground belt = Schnelles unterirdisches Fließband
+Express splitter = Express-Teilerfließband
+Express transport belt = Express-Fließband
+Express underground belt = Unterirdisches Express-Fließband
+Splitter = Teilerfließband
+Splitters = Teilerfließbänder
+Underground belt = Unterirdisches Fließband
+Underground belts = Unterirdische Fließbände
+Assembling machine = Montagemaschine
+Assembling machine 1 = Montagemaschine 1
+Assembling machine 2 = Montagemaschine 2
+Assembling machine 3 = Montagemaschine 
+Liquids/Oil processing = Flüssigkeiten/Ölverarbeitung
+Energy and work = Energie und Arbei
+Pumpjack = Förderpumpe
+Oil refinery = Ölraffinerie
+Chemical plant = Chemiefabrik
+Storage tank = Lagertank
+Pipe = Rohr
+Pipes = Rohr
+Pump = Pumpe
+Offshore pump = Gewässerpumpe
+Boiler = Heizkessel
+Steam engine = Dampfmaschin
+Small electric pole = Kleiner Strommast
+Medium electric pole = Mittelgroßer Strommast
+Big electric pole = Großer Strommast
+Substation = Umspannwerk
+Solar panel = Solarpanel
+Accumulator = Akkumulator
+Lamp = Lamp
+Pistol = Pistole
+Submachine gun = Maschinenpistole
+Shotgun = Schrotflinte
+Combat shotgun = Kampfschrotflinte
+Rocket launcher = Raketenwerfer
+Tank cannon = Panzerkanon
+Firearm magazine = Schusswaffen-Munition
+Piercing rounds magazine = Panzerbrechende Munition
+Shotgun shells = Schrotpatronen
+Piercing shotgun shells = Panzerbrechende Schrotpatronen
+Rocket = Rakete
+Explosive rocket = Explosive Rakete
+Weapon shooting speed = Feuerrat
+Rocket part = Raketenbauteil
+Rocket control unit = Raketensteuereinheit
+Low density structure = Leichtbauteil
+Satellite = Satelli
+Defender capsule = Verteidiger-Kapsel
+Distractor capsule = Ablenker-Kapsel
+Destroyer capsule = Zerstörer-Kapsel
+Poison capsule = Gift-Kapsel
+Slowdown capsule = Verlangsamungs-Kapse
+Light armor = Leichte Rüstung
+Modular armor = Modulare Rüstung
+Power armor = Hochleistungsrüstung
+Power armor MK2 = Hochleistungsrüstung 
+
+
+
+
+
+<--- more item page names --->
+
+Console = Konsole
+Beacon = Effektverteiler
+Player = Spieler
+Repair pack = Reparaturkit
+Wall = Mauer
+Turret = Geschützturm
+Flamethrower turret = Flammenwerfer-Geschützturm
+Artillery turret = Artillerie-Geschützturm
+Belt immunity equipment = Fließbandimmunitäts-Ausrüstung
+Exoskeleton = Exoskelett
+Vehicle = Fahrzeug
+Vehicles = Fahrzeuge
+Car = Auto
+Spidertron remote = Spidertron-Fernbedienung
+Enemies = Feinde
+World generator = Weltgenerator
+Tree = Baum
+Trees = Bäume
+Research = Forschung
+Technology = Technologie
+Technologies = Technologien
+Fluids = Flüssigkeiten
+Mining drills = Erzförderer
+Electric system = Stromnetz
+Pipe to ground = Unterirdisches Rohr
+Rail = Schiene
+Train stop = Zughaltestelle
+Rail signal = Zugsignal
+Rail chain signal = Zug-Kettensignal
+Locomotive = Lokomotive
+Cargo wagon = Güterwaggon
+Artillery wagon = Artilleriewaggon
+Construction robot = Bauroboter
+Logistic robot = Logistikroboter
+Roboport = Roboterhangar
+Red wire = Rotes Signalkabel
+Green wire = Grünes Signalkabel
+Arithmetic combinator = Kombinator für Berechnungen
+Decider combinator = Kombinator für Vergleiche
+Constant combinator = Kombinator für Konstanten
+Power switch = Stromschalter
+Power production = Stromproduktion
+Programmable speaker = Programmierbarer Lautsprecher
+Hazard concrete = Beton mit Warnmarkierung
+Refined concrete = Stahlbeton
+Refined hazard concrete = Stahlbeton mit Warnmarkierung
+Steam turbine = Dampfturbine
+Nuclear reactor = Kernreaktor
+Heat exchanger = Wärmetauscher
+Heat pipe = Wärmerohr
+Centrifuge = Zentrifuge
+Resources and fluids = Ressourcen und Flüssigkeiten
+Steam = Dampf
+Uranium = Uran
+Uranium-235 = Uran-235
+Uranium-238 = Uran-238
+Uranium ore = Uranerz
+Uranium processing = Uranverarbeitung
+Used up uranium fuel cell = Verbrauchtes Uran-Brennelement
+Uranium fuel cell = Uran-Brennelement
+Nuclear fuel reprocessing = Wiederaufbereitung von Kernbrennstoff
+Nuclear fuel = Kernbrennstoff
+Automation science pack = Wissenschaftspaket für Automatisierung
+Uranium rounds magazine = Uranversetzte Munition
+Cannon shell = Kanonengeschoss
+Explosive cannon shell = Explosives Kanonengeschoss
+Artillery shell = Artilleriegranate
+Uranium cannon shell = Uranversetztes Kanonengeschoss
+Explosive uranium cannon shell = Explosives uranversetztes Kanonengeschoss
+Flamethrower ammo = Brennstoff für Flammenwerfer
+Grenade = Granate
+Discharge defense remote = Fernbedienung für die Entladungsverteidigung
+Artillery targeting remote = Fernsteuerung für Artillerie
+Personal roboport (research) = Persönlicher Roboterhangar (Forschung)
+Personal roboport = Persönlicher Roboterhangar
+Personal roboport MK2 (research) = Persönlicher Roboterhangar 2 (Forschung)
+Personal roboport MK2 = Persönlicher Roboterhangar 2
+Nightvision = Nachtsichtgerät
+Barrel = Fass
+Wagon = Waggo
+
+
+
+
+
+
+
+<--- navigation template categories --->
+
+Ammo = Munition
+Ammunition = Munition
+Armor = Rüstung
+Bonuses = Boni
+Capsules = Kapseln
+Combat = Kampf
+Combat equipment = Kampfausrüstung
+Combat items = Kampfausrüstung
+Crafting = Herstellung
+Crafting components = Herstellungskomponenten
+Defense = Verteidigung
+Electricity = Elektrizität
+Energy & pipe distribution = Strom- und Leitungsnetz
+Equipment modules = Ausrüstungsmodule
+Fluid system = Flüssigkeiten
+Furnaces = Öfen
+Intermediate products = Zwischenprodukte
+Machines = Maschinen
+Materials = Materialien
+Materials and recipes = Materialien und Baupläne
+MK2 = 2
+Logistic network = Logistiknetz
+Player augmentation = Spielererweiterungen
+Production = Produktion
+Production items = Produktionsgegenstände
+Resource extraction = Ressourcengewinnung
+Resources = Ressourcen
+Science packs = Wissenschaftspakete
+Space related = Weltraum
+Storage = Lagerung
+Tools = Werkzeuge
+Transportation = Transport
+Weapons = Waffen
+Weaponry = Waffe
+
+
+
+
+
+<--- technology names, used in page names and navigation templates --->
+
+Advanced electronics (research) = Fortgeschrittene Elektronik (Forschung)
+Advanced electronics = Fortgeschrittene Elektronik
+Advanced electronics 2 (research) = Fortgeschrittene Elektronik 2 (Forschung)
+Advanced electronics 2 = Fortgeschrittene Elektronik 2
+Advanced material processing (research) = Fortgeschrittene Materialverarbeitung (Forschung)
+Advanced material processing = Fortgeschrittene Materialverarbeitung
+Advanced material processing 2 (research) = Fortgeschrittene Materialverarbeitung 2 (Forschung)
+Advanced material processing 2 = Fortgeschrittene Materialverarbeitung 2
+Advanced oil processing (research) = Fortgeschrittene Ölverarbeitung (Forschung)
+Advanced oil processing = Fortgeschrittene Ölverarbeitung
+Artillery (research) = Artillerie (Forschung)
+Artillery = Artillerie
+Artillery shell range = Artilleriegranaten-Reichweite
+Artillery shell range (research) = Artilleriegranaten-Reichweite (Forschung)
+Artillery shell shooting speed (research) = Artilleriegranaten-Feuerrate (Forschung)
+Artillery shell shooting speed = Artilleriegranaten-Feuerrate
+Atomic bomb = Atombombe
+Auto character logistic trash slots = Automatische Abfallfilter
+Automated construction (research) = Automatisierter Aufbau (Forschung)
+Automated rail transportation (research) = Automatisierter Schienenverkehr (Forschung)
+Automated rail transportation = Automatisierter Schienenverkehr
+Automation (research) = Automatisierung (Forschung)
+Automation = Automatisierung
+Automation 2 (research) = Automatisierung 2 (Forschung)
+Automation 2 = Automatisierung 2
+Automation 3 (research) = Automatisierung 3 (Forschung)
+Automation 3 = Automatisierung 3
+Automobilism (research) = Automobilität (Forschung)
+Automobilism = Automobilität
+Basic oil processing = Grundlegende Ölverarbeitung
+Battery (research) = Batterie (Forschung)
+Battery = Batterie
+Braking force (research) = Bremskraft (Forschung)
+Braking force = Bremskraft
+Bullet damage (research) = Kugelschaden (Forschung)
+Bullet damage = Kugelschaden
+Character logistic slots = Anfrageplätze für Logistik
+Character logistic trash slots = Persönliche Abfallplätze
+Chemical science pack = Wissenschaftspaket für Chemie
+Chemical science pack (research) = Wissenschaftspaket für Chemie (Forschung)
+Circuit network (research) = Schaltungsnetz (Forschung)
+Circuit network = Schaltungsnetz
+Cliff explosives (research) = Klippensprengstoff (Forschung)
+Cliff explosives = Klippensprengstoff
+Cluster grenade (research) = Splittergranate (Forschung)
+Cluster grenade = Splittergranate
+Coal liquefaction = Kohleverflüssigung
+Coal liquefaction (research) = Kohleverflüssigung (Forschung)
+Concrete (research) = Beton (Forschung)
+Construction robotics  = Bauroboter
+Construction robotics (research) = Bauroboter (Forschung)
+Defender (research) = Verteidiger (Forschung)
+Defender = Verteidiger
+Destroyer (research) = Zerstörer (Forschung)
+Destroyer = Zerstörer
+Discharge defense (research) = Entladungsverteidigung (Forschung)
+Discharge defense = Entladungsverteidigung
+Distractor (research) = Ablenker (Forschung)
+Distractor = Ablenker
+Effect transmission (research) = Effektübertragung (Forschung)
+Effect transmission = Effektübertragung
+Efficiency module = Effizienzmodul
+Efficiency module (research) = Effizienzmodul (Forschung)
+Efficiency module 2 (research) = Effizienzmodul 2 (Forschung)
+Efficiency module 3 (research) = Effizienzmodul 3 (Forschung)
+Electric energy accumulators (research) = Elektrische Akkumulatoren (Forschung)
+Electric energy accumulators = Elektrische Akkumulatoren
+Electric energy distribution 1 (research) = Stromnetze 1 (Forschung)
+Electric energy distribution 1 = Stromnetze 1
+Electric energy distribution 2 (research) = Stromnetze 2 (Forschung)
+Electric energy distribution 2 = Stromnetze 2
+Electric engine (research) = Elektromotor (Forschung)
+Electric engine = Elektromotor
+Electronics (research) = Elektronik (Forschung)
+Electronics = Elektronik
+Energy shield = Energieschild
+Energy shield MK2 = Energieschild 2
+Energy shield equipment (research) = Energieschild-Ausrüstung (Forschung)
+Energy shield equipment = Energieschild-Ausrüstung
+Energy shield MK2 equipment (research) = Energieschild-Ausrüstung 2 (Forschung)
+Energy weapons damage  = Energiewaffenschaden
+Energy weapons damage (research) = Energiewaffenschaden (Forschung)
+Engine (research) = Motor (Forschung)
+Engine = Motor
+Exoskeleton equipment (research) = Exoskelett-Ausrüstung (Forschung)
+Exoskeleton equipment = Exoskelett-Ausrüstung
+Explosive rocketry (research) = Explosive Raketen (Forschung)
+Explosive rocketry = Explosive Raketen
+Explosives (research) = Sprengstoffe (Forschung)
+Explosives = Sprengstoffe
+Fast inserter (research) = Schneller Greifarm (Forschung)
+Flamethrower (research) = Flammenwerfer (Forschung)
+Flamethrower = Flammenwerfer
+Flamethrower damage = Flammenwerferschaden
+Flammables (research) = Entzündliche Stoffe (Forschung)
+Flammables = Entzündliche Stoffe
+Fluid handling (research) = Flüssigkeitshandhabung (Forschung)
+Fluid handling = Flüssigkeitshandhabung
+Fluid wagon (research) = Tankwaggon (Forschung)
+Fluid wagon = Tankwaggon
+Follower robot count (research) = Begleitroboteranzahl (Forschung)
+Follower robot count = Begleitroboteranzahl
+Gate (research) = Tor (Forschung)
+Gate = Tor
+Gun turret (research) = Geschütztürme (Forschung)
+Gun turret = Geschützturm
+Heavy armor = Schwere Rüstung
+Heavy armor (research) = Schwere Rüstung (Forschung)
+Heavy oil cracking = Schweröl zu Leichtöl spalten
+Inserter capacity bonus (research) = Kapazitätsbonus für Greifarme (Forschung)
+Inserter capacity bonus = Kapazitätsbonus für Greifarme
+Kovarex enrichment process = Kovarex-Anreicherungsprozess
+Kovarex enrichment process (research) = Kovarex-Anreicherungsprozess (Forschung)
+Lab research speed (research) = Forschungstempo (Forschung)
+Lab research speed = Forschungstempo
+Land mines (research) = Landminen (Forschung)
+Land mine = Landminen
+Landmines = Landminen
+Landfill (research) = Landaufschüttung (Forschung)
+Laser (research) = Lasertechnik (Forschung)
+Laser = Lasertechnik
+Laser shooting speed (research) = Laser-Feuerrate (Forschung)
+Laser shooting speed = Laser-Feuerrate
+Laser turret (research) = Laser-Geschütztürme (Forschung)
+Laser turret = Laser-Geschützturm
+Light oil cracking = Leichtöl zu Flüssiggas spalten
+Logistic robotics (research) = Logistikroboter (Forschung)
+Logistic robotics = Logistikroboter
+Logistic science pack = Wissenschaftspaket für Logistik
+Logistic science pack (research) = Wissenschaftspaket für Logistik (Forschung)
+Logistic system (research) = Logistiksystem (Forschung)
+Logistic system = Logistiksystem
+Logistics (research) = Logistik (Forschung)
+Logistics = Logistik
+Logistics 2 (research) = Logistik 2 (Forschung)
+Logistics 2 = Logistik 2
+Logistics 3 (research) = Logistik 3 (Forschung)
+Logistics 3 = Logistik 3
+Low density structure (research) = Leichtbauteil (Forschung)
+Lubricant (research) = Schmiermittel (Forschung)
+Military (research) = Militär (Forschung)
+Military = Militär
+Military 2 (research) = Militär 2 (Forschung)
+Military 2 = Militär 2
+Military 3 (research) = Militär 3 (Forschung)
+Military 3 = Militär 3
+Military 4 (research) = Militär 4 (Forschung)
+Military 4 = Militär 4
+Military science pack = Wissenschaftspaket für Militär
+Military science pack (research) = Wissenschaftspaket für Militär (Forschung)
+Mining productivity = Bergbau-Produktivität
+Mining productivity (research) = Bergbau-Produktivität (Forschung)
+Modules (research) = Module (Forschung)
+Modules = Module
+Nightvision equipment (research) = Nachtsicht-Ausrüstung (Forschung)
+Nightvision equipment = Nachtsicht-Ausrüstung
+Nuclear fuel reprocessing (research) = Wiederaufbereitung von Kernbrennstoff (Forschung)
+Nuclear power = Kernenergie
+Nuclear power (research) = Kernenergie (Forschung)
+Oil processing (research) = Ölverarbeitung (Forschung)
+Oil processing = Ölverarbeitung
+Optics (research) = Optik (Forschung)
+Optics = Optik
+Personal battery (research) = Persönlicher Akku (Forschung)
+Personal battery = Persönlicher Akku
+Personal battery MK2 (research) = Persönlicher Akku 2 (Forschung)
+Personal battery MK2 = Persönlicher Akku 2
+Personal laser defense (research) = Persönliche Laserverteidigung (Forschung)
+Personal laser defense = Persönliche Laserverteidigung
+Physical projectile damage (research) = Physischer Projektilschaden (Forschung)
+Physical projectile damage = Physischer Projektilschaden
+Plastics (research) = Kunststoffe (Forschung)
+Plastics = Kunststoffe
+Portable solar panel = Tragbares Solarpanel
+Portable solar panel (research) = Tragbares Solarpanel (Forschung)
+Portable fusion reactor = Tragbarer Fusionsreaktor
+Portable fusion reactor (research) = Tragbarer Fusionsreaktor (Forschung)
+Power armor (research) = Hochleistungsrüstung (Forschung)
+Power armor MK2 (research) = Hochleistungsrüstung 2 (Forschung)
+Production science pack = Wissenschaftspaket für Produktion
+Production science pack (research) = Wissenschaftspaket für Produktion (Forschung)
+Productivity module (research) = Produktivitätsmodul (Forschung)
+Productivity module 2 (research) = Produktivitätsmodul 2 (Forschung)
+Productivity module 3 (research) = Produktivitätsmodul 3 (Forschung)
+Rail signals (research) = Zugsignale (Forschung)
+Rail signals = Zugsignale
+Railway (research) = Eisenbahn (Forschung)
+Railway = Eisenbahn
+Refined flammables  = Raffinierte entzündliche Stoffe
+Refined flammables (research) = Raffinierte entzündliche Stoffe (Forschung)
+Robotics (research) = Robotertechnik (Forschung)
+Robotics = Robotertechnik
+Rocket control unit (research) = Raketensteuereinheit (Forschung)
+Rocket fuel (research) = Raketenbrennstoff (Forschung)
+Rocket fuel = Raketenbrennstoff
+Rocket silo (research) = Raketensilo (Forschung)
+Rocket silo = Raketensilo
+Rocketry (research) = Raketentechnik (Forschung)
+Rocketry = Raketentechnik
+Solar energy (research) = Solarenergie (Forschung)
+Solar energy = Solarenergie
+Space science pack = Wissenschaftspaket für Weltraumforschung
+Space science pack (research) = Wissenschaftspaket für Weltraumforschung (Forschung)
+Speed module (research) = Tempomodul (Forschung)
+Speed module 2 (research) = Tempomodul 2 (Forschung)
+Speed module 3 (research) = Tempomodul 3 (Forschung)
+Spidertron (research) = Spidertron (Forschung)
+Stack inserter (research) = Stapelgreifarm (Forschung)
+Steel axe (research) = Stahlwerkzeuge (Forschung)
+Steel axe = Stahlwerkzeuge
+Steel processing (research) = Stahlverarbeitung (Forschung)
+Steel processing = Stahlverarbeitung
+Stone wall (research) = Steinmauer (Forschung)
+Stone wall = Steinmauer
+Stronger explosives (research) = Stärkere Sprengstoffe (Forschung)
+Stronger explosives = Stärkere Sprengstoffe
+Sulfur processing (research) = Schwefelverarbeitung (Forschung)
+Sulfur processing = Schwefelverarbeitung
+Tank (research) = Panzer (Forschung)
+Tank = Panzer
+Toolbelt (research) = Werkzeuggürtel (Forschung)
+Toolbelt = Werkzeuggürtel
+Uranium ammo (research) = Uranmunition (Forschung)
+Uranium ammo = Uranmunition
+Uranium processing (research) = Uranverarbeitung (Forschung)
+Utility science pack = Wissenschaftspaket für Zubehör
+Utility science pack (research) = Wissenschaftspaket für Zubehör (Forschung)
+Weapon shooting speed (research) = Feuerrate (Forschung)
+Worker robot cargo size (research) = Arbeitsroboter-Transportmenge (Forschung)
+Worker robot cargo size = Arbeitsroboter-Transportmenge
+Worker robot speed (research) = Arbeitsroboter-Geschwindigkeit (Forschung)
+Worker robot speed = Arbeitsroboter-Geschwindigkei
+
+
+
+
+
+<--- language selection template --->
+In other languages: = In anderen Sprachen
+
+
+
+
+
+
+<--- disambiguation template --->
+Multiple pages share the title or description of = Mehrere Seiten teilen den Titel oder die Beschreibung von
+They are listed below. = Sie sind unten aufgelistet.
+If unable to find the desired page, you may want to '''[[Special:Search|perform a new search]].''' = Wenn es nicht möglich ist die gewünschte Seite zu finden, solltest Du '''[[Special:Search|eine neue Suche durchführen]].'''
+If an = Falls ein
+internal link = interner Link
+led you here, you may wish to change the link to point directly to the intended article. = Dich hierhergeführt hat, könntest du möglicherweise den Link anpassen wollen, damit er direkt den gewünschten Artikel verlinkt
+
+
+
+
+
+
+<--- main page --->
+Latest stable version = Neueste stabile Version
+Latest experimental version = Neueste experimentelle Version
+The wiki is based on version = Dieses Wiki basiert auf der Version
+Planned releases = Geplante Versionen
+Planned features = Geplante Neuerunge
+
+
+
+
+<--- Names used in links and navigation templates like [[Coal liquefaction (research)]] -> "Kohleverflüssigung (Forschung)" -->
+Tile = Kache
+
+
+
+
+
+<--- Template:About -->
+This article is about = Dieser Artikel beschäftigt sich mit
+For = Für
+see = sieh
+
+
+
+
+
+<--- Template:Key -->
+SHIFT = UMSCHALT
+Right mouse button = Rechte Maustaste
+Left mouse button = Linke Maustaste
+Middle mouse button = Mittlere Maustaste
+Mouse wheel up = Mausrad hoch
+Mouse wheel down = Mausrad runter
+Numpad + = Nummernblock +
+Numpad - = Nummernblock -
+CTRL = STRG
+SPACE = LEERTASTE
+ENTER = EINGAB
+
+
+
+
+
+
+
+<--- Template:Achievement - names -->
+Automated cleanup = Automatisiertes Aufräumen
+Automated construction = Automatisierter Aufbau
+Circuit veteran 1 = Schaltkreisveteran 1
+Circuit veteran 2 = Schaltkreisveteran 2
+Circuit veteran 3 = Schaltkreisveteran 3
+Computer age 1 = Computerzeitalter 1
+Computer age 2 = Computerzeitalter 2
+Computer age 3 = Computerzeitalter 3
+Delivery service = Lieferservice
+Eco unfriendly = Umwelt-Unfreundlich
+Getting on track = In Fahrt kommen
+Getting on track like a pro = In Fahrt kommen wie ein Profi
+Golem = Golem
+Iron throne 1 = Eiserner Thron 1
+Iron throne 2 = Eiserner Thron 2
+Iron throne 3 = Eiserner Thron 3
+It stinks and they dont like it = Es stinkt und sie mögen es nicht
+Lazy bastard = Faule Socke
+Logistic network embargo = Logistiknetz-Embargo
+Mass production 1 = Massenproduktion 1
+Mass production 2 = Massenproduktion 2
+Mass production 3 = Massenproduktion 3
+Minions = Gefolge
+No time for chitchat = Keine Zeit zum Reden
+Pyromaniac = Pyromane
+Raining bullets = Kugelhagel
+Run Forrest, run = Lauf, Forrest, lauf
+Smoke me a kipper, I'll be back for breakfast = Warte nicht auf mich, ich bin zum Frühstück wieder da
+So long and thanks for all the fish = Macht's gut und danke für den Fisch
+Solaris = Solaris
+Steam all the way = Volldampf voraus
+Steamrolled = Überrollt
+Tech maniac = Technikverrückter
+There is no spoon = Es gibt keinen Löffel
+Trans-Factorio express = Trans-Factorio-Express
+Watch your step = Achtung, Zug
+You are doing it right = Du machst es richtig
+You've got a package = Du hast ein Paket erhalte
+
+
+
+
+
+
+<--- Template:Achievement - descriptions -->
+Deconstruct 100 objects with the [[construction robot]]s. = Baue 100 Objekte mit [[construction robot/de|Baurobotern]] ab.
+Construct 100 machines using [[construction robot|robots]]. = Baue 100 Maschinen mit Hilfe von [[construction robot/de|Baurobotern]].
+Produce 1.0k [[advanced circuit]]s per hour. = Produziere 1.000 [[advanced circuit/de|erweiterte Schaltkreise]] pro Stunde.
+Produce 10k [[advanced circuit]]s per hour. = Produziere 10.000 [[advanced circuit/de|erweiterte Schaltkreise]] pro Stunde.
+Produce 25k [[advanced circuit]]s per hour. = Produziere 25.000 [[advanced circuit/de|erweiterte Schaltkreise]] pro Stunde.
+Produce 500 [[processing unit]]s per hour. = Produziere 500 [[processing unit/de|Prozessoreinheiten]] pro Stunde.
+Produce 1.0k [[processing unit]]s per hour. = Produziere 1.000 [[processing unit/de|Prozessoreinheiten]] pro Stunde.
+Produce 5k [[processing unit]]s per hour. = Produziere 5.000 [[processing unit/de|Prozessoreinheiten]] pro Stunde.
+Supply the player with 10k items delivered by [[logistic robot]]s. = Beliefere den Spieler mit 10.000 Gegenständen durch [[logistic robot/de|Logistikroboter]].
+Research [[oil processing (research)]]. = Erforsche die [[oil processing (research)/de|Ölverarbeitung]].
+Build a [[locomotive]]. = Baue eine [[locomotive/de|Lokomotive]].
+Build a [[locomotive]] within the first 90 minutes of the game. = Baue eine [[locomotive/de|Lokomotive]] innerhalb der ersten 90 Minuten des Spiels.
+Survive a hit of 500 [[damage]] or more. = Überlebe einen Treffer mit 500 oder mehr [[damage/de|Schaden]].
+Produce 20k [[iron plate]]s per hour. = Produziere 20.000 [[iron plate/de|Eisenplatten]] pro Stunde.
+Produce 200k [[iron plate]]s per hour. = Produziere 200.000 [[iron plate/de|Eisenplatten]] pro Stunde.
+Produce 400k [[iron plate]]s per hour. = Produziere 400.000 [[iron plate/de|Eisenplatten]] pro Stunde.
+Trigger an [[enemies|alien]] attack by [[pollution]]. = Löse einen [[enemies/de|Alienangriff]] durch [[pollution/de|Umweltverschmutzung]] aus.
+Win the game by crafting no more than 111 items manually. = Gewinne das Spiel, und stelle dabei höchstens 111 Gegenstände von Hand her.
+Win the game without building any [[active provider chest|active provider]], [[buffer chest|buffer]] or [[requester chest]]s. = Gewinne das Spiel, ohne [[active provider chest/de|aktive Anbieterkisten]], [[buffer chest/de|Pufferkisten]] oder [[requester chest/de|Anforderungskisten]] zu platzieren.
+Produce 10k [[electronic circuit]]s. = Produziere 10.000 [[electronic circuit/de|elektronische Schaltkreise]].
+Produce 1M [[electronic circuit]]s. = Produziere 1.000.000 [[electronic circuit/de|elektronische Schaltkreise]].
+Produce 20M [[electronic circuit]]s. = Produziere 20.000.000 [[electronic circuit/de|elektronische Schaltkreise]].
+Have 100 [[Combat robot capsules|combat robots]] or more following you. = Besitze 100 [[Combat robot capsules/de|Kampfroboter]] oder mehr, die Dir folgen.
+Finish the game within 15 hours. = Schließe das Spiel innerhalb von 15 Stunden ab.
+Destroy 10k [[tree]]s with fire. = Brenne 10.000 [[tree/de|Bäume]] nieder.
+Win the game without building any [[laser turret]]s. = Gewinne das Spiel, ohne einen [[laser turret/de|Laser-Geschützturm]] zu bauen oder zu benutzen.
+Destroy 100 [[tree]]s by impact. = Zerstöre 100 [[tree/de|Bäume]] durch Rammen.
+Finish the game. = Schließe das Spiel ab.
+{{spoiler|button-text = Spoiler! Click to view.|message = Send a [[raw fish]] into space via [[rocket silo|rocket]].}} = {{spoiler|button-text = Spoiler! Klicke zum Ansehen.|message = Sende einen [[raw fish/de|Rohen Fisch]] ins All mit dem [[rocket silo/de|Raketensilo]].}}
+Produce more than 10 GJ per hour using only [[solar panel]]s. = Produziere mehr als 10 GJ pro Stunde nur mit [[solar panel/de|Solarpanelen]].
+Win the game without building any [[solar panel]]s. = Gewinne das Spiel, ohne [[solar panel/de|Solarpanele]] zu platzieren.
+Destroy 10 [[Enemies#Nests|spawners]] by impact. = Zerstöre 10 [[Enemies/de#Nester|Nester]] durch Rammen.
+Research all [[technologies]]. = Erforsche alle [[technologies/de|Technologien]].
+Finish the game within 8 hours. = Schließe das Spiel innerhalb von 8 Stunden ab.
+Have a [[train]] plan a path 1000 tiles or longer. = Lasse einen [[Railway/de|Zug]] einen Pfad planen, der mindestens 1.000 Kacheln lang ist.
+Get killed by a moving [[locomotive]]. = Werde durch einen fahrenden [[Railway/de|Zug]] getötet.
+Construct more machines using [[construction robot|robots]] than manually. = Platziere mehr Bauwerke mit Hilfe von [[construction robot/de|Baurobotern]] als per Hand.
+Supply the player by [[logistic robot]]. = Beliefere den Spieler durch [[logistic robot/de|Logistikroboter]]
+
+
+
+
+
+
+<--- Template:Main -->
+Main article = Hauptartike
+
+
+
+
+
+<--- Template:Archive -->
+has been <u>archived</u> = wurde <u>archiviert</u>
+The information on this page pertains to a previous version of the game.<br>It may be incorrect, or concern a removed/changed feature. = Die Informationen auf dieser Seite betreffen eine ältere Version des Spieles.<br> Sie können falsch oder über ein entferntes Objekt sein
+
+
+
+
+
+
+<--- Template:stub -->
+This article is a = Dieser Artikel ist ein
+, and not comprehensive = &nbsp;und nicht umfassend
+You can help this wiki by = Du kannst diesem Wiki helfen, indem du es
+expanding it = erweiterst
